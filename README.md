@@ -1,2 +1,5 @@
-# dio-trilha-java-basico
-Repositório para exemplos do curso Java Básico da DIO
+# Java DIO - Trilha de aprendizado Java básico
+Este repositório é exclusivamente dedicado a trilha/curso Fundamentos da Plataforma Java da DIO (Digital Inovation One)
+
+## Projetos
+
