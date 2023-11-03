@@ -1,4 +1,4 @@
-# Java DIO - Trilha de aprendizado Java básico
+# Formação Java Developer
 Este repositório é exclusivamente dedicado a trilha/curso Fundamentos da Plataforma Java da DIO (Digital Inovation One)
 
 ## Tecnologias
